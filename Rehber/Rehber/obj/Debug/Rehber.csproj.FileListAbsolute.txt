@@ -1,0 +1,11 @@
+D:\Rehber\Rehber\bin\Debug\Rehber.exe.config
+D:\Rehber\Rehber\bin\Debug\Rehber.exe
+D:\Rehber\Rehber\bin\Debug\Rehber.pdb
+D:\Rehber\Rehber\obj\Debug\Rehber.csproj.AssemblyReference.cache
+D:\Rehber\Rehber\obj\Debug\Rehber.csproj.SuggestedBindingRedirects.cache
+D:\Rehber\Rehber\obj\Debug\Rehber.Form1.resources
+D:\Rehber\Rehber\obj\Debug\Rehber.Properties.Resources.resources
+D:\Rehber\Rehber\obj\Debug\Rehber.csproj.GenerateResource.cache
+D:\Rehber\Rehber\obj\Debug\Rehber.csproj.CoreCompileInputs.cache
+D:\Rehber\Rehber\obj\Debug\Rehber.exe
+D:\Rehber\Rehber\obj\Debug\Rehber.pdb
